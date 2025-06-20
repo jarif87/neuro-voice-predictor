@@ -1,0 +1,7 @@
+numpy==1.26.4
+fastapi
+jinja2
+uvicorn
+scikit-learn==1.2.2
+catboost==1.2.8
+python-multipart

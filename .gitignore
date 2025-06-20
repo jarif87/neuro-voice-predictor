@@ -1,0 +1,55 @@
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+*/venv/
+*/env/
+*/.venv/
+*/ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+*.egg
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# Jupyter notebooks
+*.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+temp/
+tmp/
+
+# Optional: Large or sensitive model file
+# model.pkl
+
+# Environment-specific configuration
+.env
+*.local
+
+# Dependency lock files (if not needed)
+Pipfile.lock
+poetry.lock
