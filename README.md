@@ -2,8 +2,6 @@
 
 Welcome to **NeuroVoice Predictor**, a FastAPI web application that leverages AI to predict Parkinson’s disease status using voice measurement data. Powered by a pre-trained machine learning model, this app provides a sleek, futuristic interface for inputting five key features (`spread1`, `PPE`, `spread2`, `MDVP:Fo(Hz)`, `MDVP:Flo(Hz)`) and receiving instant predictions.
 
-![Home Page](images/home.png)
-
 ## Table of Contents
 - [Features](#features)
 - [Screenshots](#screenshots)
